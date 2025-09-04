@@ -5,7 +5,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CodeMirror](https://img.shields.io/badge/CodeMirror-39457E?style=for-the-badge&logo=codemirror&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 A fully functional **real-time online code editor** built with **React.js**, designed to replicate the experience of platforms like **CodePen**. This project allows developers, students, and enthusiasts to instantly write and preview **HTML, CSS, and JavaScript** in a responsive, modern interface.  
