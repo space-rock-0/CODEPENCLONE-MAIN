@@ -52,17 +52,25 @@ Whether you're testing out small snippets, experimenting with UI designs, or lea
 ## ⚙️ Installation & Setup  
 
 Follow these steps to run the project locally:  
-🔹 1️⃣ Clone the repository  
-- git clone https://github.com/your-username/codepen-clone.git
+
+🔹 **1️⃣ Clone the repository**  
+bash
+git clone https://github.com/your-username/codepen-clone.git
 🔹 2️⃣ Navigate into the project folder
-- cd codepen-clone
+
+bash
+cd codepen-clone
 🔹 3️⃣ Install dependencies
-- npm install
+
+bash
+npm install
 🔹 4️⃣ Start the development server
-- npm start
+
+bash
+npm start
 🔹 5️⃣ Open your browser and go to
-- http://localhost:3000
-  
+
+
 ## 🎮 Usage
 Type your HTML code in the HTML editor.
 Style it with CSS in the CSS editor.
